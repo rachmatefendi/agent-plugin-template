@@ -1,0 +1,4 @@
+interface:
+  display_name: "Route Task"
+  short_description: "Select the smallest useful workflow"
+  default_prompt: "Use $route-task to scope and route this request."

@@ -1,0 +1,17 @@
+{
+  "case_id": "",
+  "executed_at": "",
+  "instruction_revision": "",
+  "host": "",
+  "model": "",
+  "evaluator": "",
+  "state_isolation": "",
+  "input_sha256": "",
+  "output_sha256": "",
+  "task_disposition": "",
+  "behavior_outcome": "",
+  "checks_performed": [],
+  "checks_not_performed": [],
+  "limitations": [],
+  "criterion_assessments": []
+}

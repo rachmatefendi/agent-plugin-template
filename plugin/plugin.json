@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agent-plugin-template",
+  "version": "1.0.0",
+  "description": "Evidence-based task routing, analysis, and scoped artifact review. A skills-only starter.",
+  "author": {
+    "name": "Rachmat Efendi"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Agent Plugin Template",
+        "shortDescription": "Evidence based workflows",
+        "longDescription": "A reusable skills-only starter for routing tasks, analyzing evidence, and reviewing deliverables with explicit authority boundaries.",
+        "developerName": "Rachmat Efendi",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": "Help me scope this task, assess its evidence, and prepare a reviewable output."
+      }
+    }
+  }
+}

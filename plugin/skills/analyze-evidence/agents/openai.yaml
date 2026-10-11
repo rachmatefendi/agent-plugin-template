@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Evidence"
+  short_description: "Assess claims and material evidence gaps"
+  default_prompt: "Use $analyze-evidence to assess the supplied claims."

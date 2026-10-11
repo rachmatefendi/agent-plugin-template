@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Deliverable"
+  short_description: "Review an artifact without changing its baseline"
+  default_prompt: "Use $review-deliverable to review this artifact without editing it."
