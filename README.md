@@ -172,11 +172,11 @@ Commit only authorized project sources. Never commit client data, secrets, restr
 
 `tests/` checks actual developer scripts, including rejected invalid metadata and packaging behavior. Neither these tests nor the structural checker execute an LLM or the eleven behavioral fixtures.
 
-## Copyright
+## Copyright and license
 
-**Copyright © 2026 Rachmat Efendi.**
+**Copyright © 2026 Rachmat Efendi.** Licensed under the [MIT License](LICENSE).
 
-The copyright notice identifies the named holder for the original repository text, selection and arrangement of materials, and software implementation. Public specifications, general methods, and third-party materials retain their respective provenance. See [the copyright notice](COPYRIGHT.md).
+The MIT License covers the original repository text, selection and arrangement of materials, and software implementation. Public specifications, general methods, and third-party materials retain their respective provenance and terms. See [the copyright notice](COPYRIGHT.md).
 
 ## Primary references
 
